@@ -1,6 +1,6 @@
 # Table of contents
 
-* [What is SmartDAO?](README.md)
+* [🤓 开始使用](README.md)
 
 ## Guides
 
