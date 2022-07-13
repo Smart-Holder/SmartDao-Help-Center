@@ -1,32 +1,29 @@
 ---
 description: >-
-  welcome to SmartDAO，SmartDAO is a DAO (Distributed Autonomous Organization)
-  toolset that features a unique economic model
+  Welcome to SmartDAO, SmartDAO is a smart contract program running in the
+  blockchain network
 ---
 
 # 🤓 Introduction
 
 {% hint style="info" %}
-**Good to know:** [what is DAO?](extras/dao-distributed-autonomous-organization.md)
+**Good to know:** [ What is DAO?](extras/dao-distributed-autonomous-organization.md)
+
+SmartDAO is a DAO (Distributed Autonomous Organization) toolset that features a unique economic model, SmartDAO can Help you create your own dao in few minutes
 {% endhint %}
 
 ## Getting Started
 
-**Got 10 minutes?**  Follow our handy guides to get started on the basics as quickly as possible:
+**Got 10 minutes?**  Follow our guide to create your first DAO:
 
-{% content-ref url="guides/creating-your-first-dao.md" %}
-[creating-your-first-dao.md](guides/creating-your-first-dao.md)
+{% content-ref url="guides/shu-zi-qian-bao-cha-jian-zhun-bei.md" %}
+[shu-zi-qian-bao-cha-jian-zhun-bei.md](guides/shu-zi-qian-bao-cha-jian-zhun-bei.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/creating-your-first-task.md" %}
-[creating-your-first-task.md](guides/creating-your-first-task.md)
+{% content-ref url="guides/smartlaunch-shi-yong/" %}
+[smartlaunch-shi-yong](guides/smartlaunch-shi-yong/)
 {% endcontent-ref %}
 
-{% content-ref url="guides/advanced-permissions.md" %}
-[advanced-permissions.md](guides/advanced-permissions.md)
+{% content-ref url="guides/smartdashboard-shi-yong/" %}
+[smartdashboard-shi-yong](guides/smartdashboard-shi-yong/)
 {% endcontent-ref %}
-
-{% hint style="info" %}
-**Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
-
