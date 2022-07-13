@@ -16,7 +16,7 @@
 
 ![](<../.gitbook/assets/image (5).png>)
 
-#### 备份私钥或者助记词：
+#### <mark style="color:blue;">备份私钥或者助记词：</mark>
 
 ![](<../.gitbook/assets/image (4).png>)
 
@@ -24,6 +24,6 @@
 
 ![](<../.gitbook/assets/image (1).png>)
 
-## Creating a project
+## 转入Ethereum 网络Gas Token(ETH)
 
-Hit the big '+' button in your sidebar and select 'New Project' from the menu that pops up. Give your project a name, and you're good to go!
+You can get Ethereum tokens from digital currency exchanges or swap.
