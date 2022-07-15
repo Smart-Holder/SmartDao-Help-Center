@@ -1,2 +1,2 @@
-# Decentralized Wallet
+# 🤓 Decentralized Wallet
 

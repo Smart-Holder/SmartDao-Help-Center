@@ -1,2 +1,2 @@
-# DAO(Distributed Autonomous Organization)
+# 🤓 DAO(Distributed Autonomous Organization)
 

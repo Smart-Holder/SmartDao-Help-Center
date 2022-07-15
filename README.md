@@ -24,6 +24,6 @@ SmartDAO is a DAO (Distributed Autonomous Organization) toolset that features a 
 [smartlaunch-shi-yong](guides/smartlaunch-shi-yong/)
 {% endcontent-ref %}
 
-{% content-ref url="guides/smartdashboard-shi-yong/" %}
-[smartdashboard-shi-yong](guides/smartdashboard-shi-yong/)
+{% content-ref url="guides/smartlaunch-shi-yong/smartdashboard-shi-yong/" %}
+[smartdashboard-shi-yong](guides/smartlaunch-shi-yong/smartdashboard-shi-yong/)
 {% endcontent-ref %}

@@ -1,4 +1,4 @@
-# 数字钱包插件准备
+# ⛳ 数字钱包插件准备
 
 {% hint style="info" %}
 **Good to know:** You can use the mobile digital wallet app or metamask (chrome browser plugin) The metamask plugin is recommended.
