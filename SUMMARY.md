@@ -28,5 +28,4 @@
 
 * [🤓 What is NFTP](extras/what-is-nftp.md)
 * [🤓 DAO(Distributed Autonomous Organization)](extras/dao-distributed-autonomous-organization.md)
-* [🤓 Decentralized Wallet](extras/decentralized-wallet.md)
-* [🤓 Ethererm BlockChain](extras/ethererm-blockchain.md)
+* [🤓 Decentralized Crypto Wallet](extras/decentralized-crypto-wallet.md)
