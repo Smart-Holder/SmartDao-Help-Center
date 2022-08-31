@@ -1,16 +1,20 @@
 ---
 description: >-
-  Welcome to SmartDAO, SmartDAO is a smart contract program running in the
-  blockchain network
+  Welcome to SmartDAO, SmartDAO 是一个运行在区块链上的平台，专注于为艺术家提供技术创新的DAO(Decentralized
+  Autonomous Organization)工具集，使得其快速聚集社群力量并构建完整的经济模型。
 ---
 
 # 🤓 Introduction
 
 {% hint style="info" %}
 **Good to know:** [ What is DAO?](extras/dao-distributed-autonomous-organization.md)
-
-SmartDAO is a DAO (Distributed Autonomous Organization) toolset that features a unique economic model, SmartDAO can Help you create your own dao in few minutes
 {% endhint %}
+
+
+
+## How to Create a DAO
+
+
 
 ## Getting Started
 
