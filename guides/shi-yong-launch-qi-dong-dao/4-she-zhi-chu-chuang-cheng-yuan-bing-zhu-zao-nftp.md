@@ -6,5 +6,5 @@
 
 1.设置NFTP资产名称，并设置成员在同一网络(本演示为ETHEREUM网络)中的钱包地址:
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
