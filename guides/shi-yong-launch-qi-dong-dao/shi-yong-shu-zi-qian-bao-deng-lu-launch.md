@@ -1,6 +1,17 @@
 ---
-description: DAO管理员和初创成员
+description: Launch 是创建DAO的入口，通过Launch 我们可以完成 DAO初始化的工作
 ---
 
 # 使用数字钱包登陆Launch
 
+1. 使用chrome浏览器，打开SmartDAO Launch首页： [https://smart-dao-rel.stars-mine.com](https://smart-dao-rel.stars-mine.com/)
+
+![](<../../.gitbook/assets/image (5).png>)
+
+2.在右上角选择SmartDAO当前支持的区块链网络(目前暂支持ETHEREUM主网、RINKEBY测试网)，点击Connect Account 按钮使用 metamask 插件钱包进行登录，移动端区块链用户可使用WalletConnect工具进行扫码登录。
+
+![](<../../.gitbook/assets/image (11).png>)
+
+3.使用metamask插件钱包登录成功
+
+![](<../../.gitbook/assets/image (9).png>)

@@ -8,13 +8,13 @@
 
 #### :tada:[下载安装metamask插件](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=zh-CN\&utm\_source=chrome-ntp-launcher)
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (10).png>)
 
 #### :tada:[在Ethereum主网络中创建钱包：](https://chrome-extension/nkbihfbeogaeaoehlefnkodbefgpgknn/home.html#new-account)
 
 ![](<../.gitbook/assets/image (6).png>)
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
 #### <mark style="color:blue;">备份私钥或者助记词：</mark>
 
