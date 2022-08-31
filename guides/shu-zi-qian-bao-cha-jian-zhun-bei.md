@@ -1,5 +1,7 @@
 # ⛳ 数字钱包插件准备
 
+
+
 {% hint style="info" %}
 **Good to know:** You can use the mobile digital wallet app or metamask (chrome browser plugin) The metamask plugin is recommended.
 {% endhint %}
@@ -12,7 +14,7 @@
 
 #### :tada:[在Ethereum主网络中创建钱包：](https://chrome-extension/nkbihfbeogaeaoehlefnkodbefgpgknn/home.html#new-account)
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (6) (1).png>)
 
 ![](<../.gitbook/assets/image (5) (1).png>)
 
@@ -20,7 +22,7 @@
 
 ![](<../.gitbook/assets/image (4).png>)
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (1).png>)
 
 ![](<../.gitbook/assets/image (1) (1).png>)
 

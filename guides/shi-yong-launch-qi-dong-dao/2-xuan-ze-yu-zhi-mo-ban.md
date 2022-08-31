@@ -8,6 +8,6 @@
 #### Company： 使用可转让平台代币代表您在组织的所有权。决策是基于权益加权投票做出的
 {% endhint %}
 
-1.选择模版（此处演示我们选择Membership模版）
+1.选择模版（此处演示我们选择Membership模版）:
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
