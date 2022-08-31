@@ -22,10 +22,10 @@ description: >-
 [shu-zi-qian-bao-cha-jian-zhun-bei.md](guides/shu-zi-qian-bao-cha-jian-zhun-bei.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/smartlaunch-shi-yong/" %}
-[smartlaunch-shi-yong](guides/smartlaunch-shi-yong/)
+{% content-ref url="guides/shi-yong-launch-qi-dong-dao/" %}
+[shi-yong-launch-qi-dong-dao](guides/shi-yong-launch-qi-dong-dao/)
 {% endcontent-ref %}
 
-{% content-ref url="guides/shi-yong-smartdashboard-guan-li-dao/" %}
-[shi-yong-smartdashboard-guan-li-dao](guides/shi-yong-smartdashboard-guan-li-dao/)
+{% content-ref url="guides/shi-yong-dashboard-guan-li-dao/" %}
+[shi-yong-dashboard-guan-li-dao](guides/shi-yong-dashboard-guan-li-dao/)
 {% endcontent-ref %}
