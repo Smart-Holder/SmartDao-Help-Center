@@ -1,6 +1,6 @@
 ---
 description: >-
-  Welcome to SmartDAO, SmartDAO 是一个运行在区块链上的平台，专注于为艺术家提供技术创新的DAO(Decentralized
+  欢迎来到 SmartDAO, SmartDAO 是一个运行在区块链上的平台，专注于为艺术家提供技术创新的DAO(Decentralized
   Autonomous Organization)工具集，使得其快速聚集社群力量并构建完整的经济模型。
 ---
 
@@ -13,8 +13,6 @@ description: >-
 
 
 ## How to Create a DAO
-
-
 
 ## Getting Started
 
