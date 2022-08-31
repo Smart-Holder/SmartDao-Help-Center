@@ -12,4 +12,4 @@
 
 1.设置Asset issuance tax、Asset circulation tax 参数:
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>

@@ -14,7 +14,7 @@
 
 #### :tada:[在Ethereum主网络中创建钱包：](https://chrome-extension/nkbihfbeogaeaoehlefnkodbefgpgknn/home.html#new-account)
 
-![](<../.gitbook/assets/image (6) (1).png>)
+![](<../.gitbook/assets/image (6) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (5) (1).png>)
 
