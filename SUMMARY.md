@@ -6,8 +6,8 @@
 
 * [⛳ 数字钱包插件准备](guides/shu-zi-qian-bao-cha-jian-zhun-bei.md)
 * [⛳ 使用Launch启动DAO](guides/shi-yong-launch-qi-dong-dao/README.md)
-  * [使用数字钱包登陆Launch](guides/shi-yong-launch-qi-dong-dao/shi-yong-shu-zi-qian-bao-deng-lu-launch.md)
-  * [选择DAO预制模版](guides/shi-yong-launch-qi-dong-dao/xuan-ze-dao-yu-zhi-mo-ban.md)
+  * [1⃣️ 使用数字钱包登陆Launch](guides/shi-yong-launch-qi-dong-dao/1-shi-yong-shu-zi-qian-bao-deng-lu-launch.md)
+  * [2⃣️ 选择预制模版](guides/shi-yong-launch-qi-dong-dao/2-xuan-ze-yu-zhi-mo-ban.md)
   * [设置DAO基本信息](guides/shi-yong-launch-qi-dong-dao/she-zhi-dao-ji-ben-xin-xi.md)
   * [设置DAO初创成员并铸造NFTP](guides/shi-yong-launch-qi-dong-dao/she-zhi-dao-chu-chuang-cheng-yuan-bing-zhu-zao-nftp.md)
   * [设置DAO分润模型](guides/shi-yong-launch-qi-dong-dao/she-zhi-dao-fen-run-mo-xing.md)

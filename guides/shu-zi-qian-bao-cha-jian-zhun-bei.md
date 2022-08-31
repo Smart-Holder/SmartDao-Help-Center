@@ -22,7 +22,7 @@
 
 ![](<../.gitbook/assets/image (7).png>)
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 ## 转入Ethereum 网络Gas Token(ETH)
 
