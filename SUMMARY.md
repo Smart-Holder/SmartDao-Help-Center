@@ -14,7 +14,6 @@
   * [6⃣️ 设置DAO投票模型](guides/shi-yong-launch-qi-dong-dao/she-zhi-dao-tou-piao-mo-xing.md)
   * [👏 生成交易 DAO 信息上链](guides/shi-yong-launch-qi-dong-dao/sheng-cheng-jiao-yi-dao-xin-xi-shang-lian.md)
 * [⛳ 使用Dashboard管理DAO](guides/shi-yong-dashboard-guan-li-dao/README.md)
-  * [使用数字钱包登陆Dashboard](guides/shi-yong-dashboard-guan-li-dao/shi-yong-shu-zi-qian-bao-deng-lu-dashboard.md)
   * [设置NFTP信息](guides/shi-yong-dashboard-guan-li-dao/she-zhi-nftp-xin-xi.md)
   * [成员管理](guides/shi-yong-dashboard-guan-li-dao/cheng-yuan-guan-li.md)
   * [资产管理](guides/shi-yong-dashboard-guan-li-dao/zi-chan-guan-li.md)

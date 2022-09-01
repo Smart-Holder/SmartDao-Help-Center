@@ -10,5 +10,5 @@
 
 1. 设置Support 以及 Minimum Number Of Votes 参数
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
