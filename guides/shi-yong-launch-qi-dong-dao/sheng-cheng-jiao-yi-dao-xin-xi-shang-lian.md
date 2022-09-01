@@ -2,4 +2,4 @@
 
 1.发起创建DAO的合约交易并确认，DAO创建完成！
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
