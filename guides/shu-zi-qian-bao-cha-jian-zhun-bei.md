@@ -20,11 +20,11 @@
 
 #### <mark style="color:blue;">备份私钥或者助记词：</mark>
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 ![](<../.gitbook/assets/image (7) (1).png>)
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1).png>)
 
 ## 转入Ethereum 网络Gas Token(ETH)
 
