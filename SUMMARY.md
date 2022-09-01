@@ -21,7 +21,7 @@
   * [治理管理及投票](guides/shi-yong-dashboard-guan-li-dao/zhi-li-guan-li-ji-tou-piao.md)
   * [订单管理](guides/shi-yong-dashboard-guan-li-dao/ding-dan-guan-li.md)
 * [⏳ SmartClient](guides/smartclient.md)
-* [⏳ NFTCreator工具](guides/nftcreator-gong-ju.md)
+* [⛳ NFTCreator工具](guides/nftcreator-gong-ju.md)
 
 ## Extras
 
