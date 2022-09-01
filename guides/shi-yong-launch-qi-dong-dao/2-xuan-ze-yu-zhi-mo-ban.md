@@ -10,4 +10,4 @@
 
 1.选择模版（此处演示我们选择Membership模版）:
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (5).png" alt=""><figcaption></figcaption></figure>

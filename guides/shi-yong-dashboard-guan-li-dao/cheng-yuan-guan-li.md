@@ -4,4 +4,4 @@
 **\*** 当新增成员时，智能合约会自动铸造NFTP资产，并转移到新成员的钱包地址下\
 \* 当移除成员时，智能合约会自动销毁NFTP资产
 
-<figure><img src="../../.gitbook/assets/image (1) (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (5) (1).png" alt=""><figcaption></figcaption></figure>
