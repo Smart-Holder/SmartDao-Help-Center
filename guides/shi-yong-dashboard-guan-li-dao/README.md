@@ -6,7 +6,7 @@
 
 
 
-**1.如何进入DASHBOARD**
+**如何进入DASHBOARD**
 
 &#x20;   1.使用chrome浏览器，打开SmartDAO Launch首页： [https://smart-dao-rel.stars-mine.com](https://smart-dao-rel.stars-mine.com/)
 
@@ -16,7 +16,7 @@
 
 &#x20;   4.进入DASHBOARD
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;  &#x20;
 
